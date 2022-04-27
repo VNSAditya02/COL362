@@ -1,2 +1,2 @@
 # COL362
-Assignments of COL362 - Database Managemenr
+Assignments of COL362 - Database Management
